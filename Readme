@@ -1,0 +1,10 @@
+Time series forecasting is an increasingly important activity in an ever-more data-driven world, 
+as it allows for predicting future events based on historical data and therefore making informed decisions 
+in various business areas. Furthermore, it helps to identify trends and patterns in the data, which can be used 
+to improve business processes and increase efficiency.
+This project was carried out to analyze the trend of electricity consumption and compare different forecasting 
+methods using various algorithms such as ARIMA, UCM, and machine learning.
+Therefore, the aim of this study was to model and forecast the time series of electricity consumption in Morocco. 
+The performance comparison of ARIMA, UCM, and machine learning methods was carried out to identify the model that 
+predicted the consumption values every 10 minutes with the highest accuracy (obtaining clean residuals and good linear memory) 
+in the period from December 1, 2017, to December 30, 2017, for the city of Tetouan.
